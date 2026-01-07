@@ -52,7 +52,7 @@ Consultas SQL para extraer, transformar y analizar información desde bases de d
 
 ## 📫 Contacto
 - 📧 Email: **juan.prada.98@hotmail.com**  
-- 💼 LinkedIn: https://www.linkedin.com/in/juan-prada-873141239/
+- 💼 LinkedIn: https://www.linkedin.com/in/juan-lizardo-prada-mantilla-873141239/
 
 ---
 
